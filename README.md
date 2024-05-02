@@ -1,1 +1,1 @@
-# Diwali-sales-analysis-excel
+# Diwali-sales-analysis-Python
